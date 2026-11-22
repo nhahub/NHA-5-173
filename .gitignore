@@ -1,0 +1,13 @@
+# Generated datasets and model artifacts
+data/processed/
+data/features/
+data/machine_mapping.json
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+models/*.pt
+models/*.joblib
